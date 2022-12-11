@@ -1,6 +1,7 @@
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 
 node index.js --action list
+
 https://drive.google.com/file/d/1JUkAWJqfUB0NVz7iYt4eYCpp_zuovoWL/view?usp=share_link
 
 # Получаем контакт по id
@@ -18,4 +19,5 @@ https://drive.google.com/file/d/1KsQSIos8fXT_RxlWGRf7KSKyi0Vqa_NT/view?usp=share
 # Удаляем контакт
 
 node index.js --action remove --id=3
+
 https://drive.google.com/file/d/1r91-prNni3QYUTO1LC1_RsQYvFgzBDn5/view?usp=share_link
